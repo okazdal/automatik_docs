@@ -1,0 +1,10 @@
+{
+  "title": "AutomaTik Documentation",
+  "url": "https://docs.automatik.cloud",
+  "logo": {
+    "light": "/logo_light.png",
+    "dark": "/logo_dark.png"
+  },
+  "github": "okazdal/automatik_docs",
+  "twitter": "@automatik"
+}
