@@ -1,8 +1,8 @@
-gh---
+---
 title: AutomaTik Settings
 description: ''
 position: 3
-category: Getting Started
+category: Settings
 ---
 
 Click on your router to see its detail page.

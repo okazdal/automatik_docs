@@ -2,7 +2,7 @@
 title: Add your First Router
 description: ''
 position: 2
-category: Getting Started
+category: Add Router
 requirements:
   - API service should be enabled in /ip service
   - API-SSL service should be disabled. AutomaTik will configure and enable it.
