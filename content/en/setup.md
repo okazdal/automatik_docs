@@ -91,3 +91,4 @@ You may have a message saying 'TRY AGAIN LATER', if this happens please refresh 
 Now, you should be able to see your router added on your dashboard.
 
 <img src="ss/router_added.png">
+
