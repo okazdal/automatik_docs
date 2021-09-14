@@ -2,7 +2,7 @@
 title: AutomaTik Settings
 description: ''
 position: 3
-category: Settings
+category: Getting Started
 ---
 
 Click on your router to see its detail page.
